@@ -1,0 +1,13 @@
+{
+  "task1": {
+    "id": 1,
+    "title": "Task 1",
+    "details": "This is a task",
+    "length": 30,
+    "difficulty": 2,
+    "deadline": {
+      "date": "20/07/20",
+      "time": "16:30"
+    }
+  }
+}
